@@ -1,0 +1,7 @@
+[
+  {"question":"2 bedroom apartment in Dubai Marina","expected":["p1"]},
+  {"question":"affordable studio in JVC","expected":["p6"]},
+  {"question":"four bedroom villa in Palm Jumeirah","expected":["p2"]},
+  {"question":"townhouse near a school","expected":["p5"]},
+  {"question":"one bedroom apartment in Business Bay","expected":["p4"]}
+]

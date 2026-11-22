@@ -1,0 +1,11 @@
+{
+  "name": "rag-cited-answers",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "Offline RAG demo with inline source citations and a 5-case citation-recall eval harness",
+  "scripts": {
+    "start": "node index.mjs",
+    "eval": "node index.mjs eval"
+  }
+}
